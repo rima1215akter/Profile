@@ -214,7 +214,7 @@ h1{
     background: none;
   }
   .skills .progress1 .skill{
-    padding: 10px 0;
+    padding: 5px;
     margin: 0 0 6px 0;
     text-transform: uppercase;
     display: block;
@@ -231,7 +231,7 @@ h1{
   }
   .skills .progress-bar{
     width: 1px;
-    height: 10px;
+    height: 50px;
     transition: 0.9s;
     background-color: #bfd5df;
   }
